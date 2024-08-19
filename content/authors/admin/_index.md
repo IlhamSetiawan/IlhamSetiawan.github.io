@@ -40,7 +40,7 @@ profiles:
 education:
   - area: Bachelor of information systems
     institution: Universitas Dian Nuswantoro
-    date_start: 2018-09-010
+    date_start: 2018-09-10
     date_end: 2024-02-23
     summary: |
       During my studies at UDINUS, I was actively involved in the Dinus Open Source Community, served as a speaker at Bootcamp and Sharing Time, participated in CTF Gemastik and Arkavedia, and also worked as a Laboratory Assistant.
