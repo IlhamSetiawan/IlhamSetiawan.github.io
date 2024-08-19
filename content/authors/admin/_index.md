@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  Ilham
+title:  Ilham Adi Setiawan
 
 
 
@@ -36,6 +36,14 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
 
+
+education:
+- area: Bachelor of information systems
+    institution: Universitas Dian Nuswantoro
+    date_start: 2018-09-010
+    date_end: 2024-02-23
+    summary: |
+      GPA: 3.47/4.0
 
 work:
   - position: Director of Cloud Infrastructure
