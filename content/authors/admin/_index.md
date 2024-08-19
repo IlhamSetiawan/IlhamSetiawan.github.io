@@ -43,7 +43,7 @@ education:
     date_start: 2018-09-010
     date_end: 2024-02-23
     summary: |
-      Thesis on _Strategi Implementasi GitOps dalam Manajemen Kubernetes dengan Penerapan Teknik Canary Release dan Automatic Rollback_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      During my studies at UDINUS, I was actively involved in the Dinus Open Source Community, served as a speaker at Bootcamp and Sharing Time, participated in CTF Gemastik and Arkavedia, and also worked as a Laboratory Assistant.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
