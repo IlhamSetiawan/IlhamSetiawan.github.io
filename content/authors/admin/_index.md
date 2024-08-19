@@ -48,10 +48,7 @@ education:
 Supervised by [Ramadhan Rakhmat Sani](https://scholar.google.co.id/citations?user=pgd74CkAAAAJ&hl=en)
 
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
