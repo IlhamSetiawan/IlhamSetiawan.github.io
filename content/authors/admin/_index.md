@@ -38,12 +38,15 @@ profiles:
 
 
 education:
-- area: Bachelor of information systems
-    institution: Universitas Dian Nuswantoro
-    date_start: 2018-09-010
-    date_end: 2024-02-23
+- area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.47/4.0
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
 
 work:
   - position: Director of Cloud Infrastructure
