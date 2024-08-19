@@ -37,11 +37,11 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-   - area: BSc Artificial Intelligence
+    - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
+    summary: 
       GPA: 3.4/4.0
       
    
