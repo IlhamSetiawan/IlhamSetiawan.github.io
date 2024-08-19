@@ -42,7 +42,6 @@ education:
     date_start: 2018-09-010
     date_end: 2024-02-23
     summary: |
-      GPA: 3.47/4.0
       Thesis on: Strategi Implementasi GitOps dalam Manajemen Kubernetes dengan Penerapan Teknik Canary Release dan Automatic Rollback  
 Supervised by: [Ramadhan Rakhmat Sani](https://scholar.google.co.id/citations?user=pgd74CkAAAAJ&hl=en)
 
