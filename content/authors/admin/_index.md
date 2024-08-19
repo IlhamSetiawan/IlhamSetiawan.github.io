@@ -42,11 +42,11 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      I was actively involved in the Dinus Open Source Community, served as a speaker at Bootcamp and Sharing Time, participated in CTF Gemastik and Arkavedia, and also worked as a Laboratory Assistant.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-      
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
