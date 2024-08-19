@@ -37,11 +37,12 @@ profiles:
     url: https://www.instagram.com/
 
 education:
+
   - area: Bachelor of information systems
     institution: Universitas Dian Nuswantoro
     date_start: 2018-09-010
     date_end: 2024-02-23
-    summary: |
+    summary: 
       Thesis on: Strategi Implementasi GitOps dalam Manajemen Kubernetes dengan Penerapan Teknik Canary Release dan Automatic Rollback  
 Supervised by: [Ramadhan Rakhmat Sani](https://scholar.google.co.id/citations?user=pgd74CkAAAAJ&hl=en)
 
