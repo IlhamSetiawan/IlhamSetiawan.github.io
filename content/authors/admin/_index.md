@@ -37,10 +37,10 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Information Systems
+    institution: Universitas Dian Nuswantoro 
+    date_start: 2018-09-10
+    date_end: 20224-02-23
     summary: |
       I was actively involved in the Dinus Open Source Community, served as a speaker at Bootcamp and Sharing Time, participated in CTF Gemastik and Arkavedia, and also worked as a Laboratory Assistant.
     button:
@@ -48,28 +48,41 @@ education:
       url: 'https://example.com'
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Laboratory Assistant
+    company_name: Universitas Dian Nuswantoro
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2019-09-01
+    date_end: 2020-01-03
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Assisted in managing and resolving technical issues on over 50 computer devices efficiently
+      - Partnered with lecturers to deliver educational material effectively, ensuring smooth communication and coordination to resolve any problems or challenges
+      - Offered support to approximately 200 students per week, facilitating their learning needs and addressing any questions or issues
+
+  - position: documentation team 
+    company_name: Xenta OS
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-01-01
+    date_end: 2018-09-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Authored an e-book on basic Linux commands, achieving 52 downloads and 177 views on adoc.pub
+      - Created practical content with real-world examples and exercises, resulting in increased positive feedback from beginner users
+      - Developed a user manual for Xenta OS
+
+  - position: student internship 
+    company_name: Dinas Komunikasi dan Informatika Kota Pekalongan
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-12-01
+    date_end: 2017-02-15
+    summary: |
+      Responsibilities include:
+      - Monitoring Network Infrastructure: Oversaw the network infrastructure of 5 Health Service Centers (Puskesmas) in the Pekalongan area
+      - Trained approximately 100 elementary school students weekly on open-source software and operating systems
+      - Introduced open-source software and operating systems to over 200 elementary school students
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
