@@ -44,7 +44,6 @@ education:
     date_end: 2024-02-23
       summary: |
       GPA: 3.47/4.0
-      dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 
 work:
