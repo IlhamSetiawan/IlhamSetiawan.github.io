@@ -45,7 +45,7 @@ education:
       I was actively involved in the Dinus Open Source Community, served as a speaker at Bootcamp and Sharing Time, participated in CTF Gemastik and Arkavedia, and also worked as a Laboratory Assistant.
       
     button:
-      text: 'Read Thesis'
+      text: 'Read My Bachelor's Thesis:Implementation strategy of gitops in kubernetes management by applying canary release and automatic rollback techniques'
       url: 'https://example.com'
 
 work:
