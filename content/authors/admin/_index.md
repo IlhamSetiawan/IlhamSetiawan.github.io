@@ -40,7 +40,7 @@ education:
   - area: Bachelor of Information Systems
     institution: Universitas Dian Nuswantoro 
     date_start: 2018-09-10
-    date_end: 20224-02-23
+    date_end: 2024-02-23
     summary: |
       I was actively involved in the Dinus Open Source Community, served as a speaker at Bootcamp and Sharing Time, participated in CTF Gemastik and Arkavedia, and also worked as a Laboratory Assistant.
     button:
@@ -69,7 +69,7 @@ work:
     summary: |
       Responsibilities include:
       - Authored an e-book on basic Linux commands, achieving 52 downloads and 177 views on adoc.pub
-      - Created practical content with real-world examples and exercises, resulting in increased positive feedback from beginner users
+      - Created practical content with real-world examples and exercises, resulting in increased positive feedback from beginner  users
       - Developed a user manual for Xenta OS
 
   - position: student internship 
