@@ -21,7 +21,7 @@ role:  Cloud Engineering Enthusiast | AWS re/Start Graduate | Information System
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: 
-    url: https://www.example.com/
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
