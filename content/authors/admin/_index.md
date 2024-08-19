@@ -42,7 +42,7 @@ education:
     institution: Universitas Dian Nuswantoro
     date_start: 2018-09-10
     date_end: 2024-02-23
-      summary: |
+    summary: |
       GPA: 3.47/4.0
 
 
