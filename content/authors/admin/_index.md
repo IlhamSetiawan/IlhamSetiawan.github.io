@@ -44,7 +44,10 @@ education:
     date_end: 2024-02-23
     summary: |
       During my studies at UDINUS, I was actively involved in the Dinus Open Source Community, served as a speaker at Bootcamp and Sharing Time, participated in CTF Gemastik and Arkavedia, and also worked as a Laboratory Assistant.
+    GPA: 3.47/4.0
     button:
+      text: 'Bachelor's Thesis'
+      text: 'Strategi implementasi gitops dalam manajemen kubernetes dengan penerapan teknik canary release dan automatic rollback'
       text: 'Read Thesis'
       url: 'https://example.com'
 
