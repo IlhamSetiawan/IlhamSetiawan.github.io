@@ -36,11 +36,6 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
 
-
-
-
-
-
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
