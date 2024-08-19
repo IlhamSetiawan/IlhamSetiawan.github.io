@@ -42,7 +42,7 @@ education:
     date_start: 2018-09-10
     date_end: 2024-02-23
     summary: |
-      I was actively involved in the Dinus Open Source Community, served as a speaker at Bootcamp and Sharing Time, participated in CTF Gemastik and Arkavedia, and also worked as a Laboratory Assistant.
+      I was actively involved in the Dinus Open Source Community, served as a speaker at Bootcamp and Sharing Time, participated in CTF Gemastik and Arkavedia, and also worked as a Laboratory Assistant,GPA 3.47.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
