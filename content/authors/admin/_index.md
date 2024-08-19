@@ -37,13 +37,12 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Bachelor of Information Systems
+    institution: Universitas Dian Nuswantoro
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-    I was actively involved in the Dinus Open Source Community, served as a speaker at Bootcamp and Sharing Time, participated in CTF Gemastik and Arkavedia, and also worked as a Laboratory Assistant.
-
+    
 
 
 
