@@ -42,11 +42,6 @@ education:
     institution: Universitas Dian Nuswantoro
     date_start: 2018-09-10
     date_end: 2024-02-23
-    button:
-      text: 'Bachelor's Thesis'
-      text: 'Strategi implementasi gitops dalam manajemen kubernetes dengan penerapan teknik canary release dan automatic rollback'
-      text: 'Read Thesis'
-      url: 'https://example.com'
 
 
 work:
