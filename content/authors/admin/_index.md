@@ -90,8 +90,7 @@ skills:
   - name: Technical Skills
     items:
       - name:  Microsoft Azure
-        description: ''
-        percent: 80
+        description: 'Microsoft Certified Azure Fundamentals'
         icon: devicon/azure
       - name: RStudio
         description: ''
